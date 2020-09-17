@@ -1,6 +1,4 @@
-package com.practice;
-
-import java.util.Arrays;
+package com.practice01.practice01_01;
 
 public class Problem01 {
     public static void main(String[] args) {

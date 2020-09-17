@@ -1,7 +1,5 @@
-package com.practice2;
+package com.practice01.practice01_02;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class Problem08 {
@@ -56,4 +54,6 @@ public class Problem08 {
 
         return totalPrice - sub_money;
     }
+
+
 }
